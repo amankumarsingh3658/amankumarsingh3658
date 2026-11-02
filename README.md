@@ -26,7 +26,7 @@ I build mobile apps with **Flutter** and backends with **Node.js, Python (FastAP
 | [Streamify](https://github.com/amankumarsingh3658/Streamify) | Video streaming platform with adaptive bitrate transcoding and CDN delivery | Python microservices, AWS S3/ECS/ECR, Redis, Flutter |
 | [Chess-Game](https://github.com/amankumarsingh3658/Chess-Game) | Real-time multiplayer chess in the browser | Node.js, Socket.io, Chess.js |
 | [Music-Player-App](https://github.com/amankumarsingh3658/Music-Player-App) | Cross-platform music player with its own backend | Flutter, Riverpod, FastAPI, PostgreSQL |
-| [BlogBreeze](https://github.com/amankumarsingh3658/BlogBreeze) · [live](https://blog-breeze-phi.vercel.app) | Blog app that works offline | Flutter, Bloc, Supabase, Hive |
+| [BlogBreeze](https://github.com/amankumarsingh3658/BlogBreeze) | Blog app that works offline | Flutter, Bloc, Supabase, Hive |
 | [Pass-Op-Mongo](https://github.com/amankumarsingh3658/Pass-Op-Mongo) | Full-stack password manager | React, Tailwind, MongoDB |
 | [The-Wall](https://github.com/amankumarsingh3658/The-Wall) | Social app with real-time likes and comments | Flutter, Firebase |
 
